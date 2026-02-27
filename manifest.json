@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "manifestVersion": "2026.02.26.1",
+  "releasedAt": "2026-02-26T08:55:00Z",
+  "minAppVersion": "1.0.0",
+  "policyPack": {
+    "packVersion": "1.0.1",
+    "url": "https://frankchiboy.github.io/salary-app-updates/policy_pack_1.0.1.json",
+    "sha256": "996c8b4a46eb67d41e6fb47ed1c3e71e772db53f707ae4f6fb0c5a4b9dc3305c"
+  },
+  "verifierPack": {
+    "packVersion": "1.1.0",
+    "url": "https://frankchiboy.github.io/salary-app-updates/verifier_pack_1.1.0.json",
+    "sha256": "9d8af695af60fe45507af6dc42bfadd24efc7ee9df895489bb35c2fc131216c8"
+  },
+  "keyId": "salary-ed25519-2026-01",
+  "signature": "XlPn0w64DBSTB0VStr87ibZD2oscDUVPF4Gfv0n4oNs+uuF6lJP1Grt+/evoMUcPWuk8GpV9SO1Il/VXYrX6AQ=="
+}
