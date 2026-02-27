@@ -1,0 +1,9 @@
+{
+  "packVersion": "1.1.0",
+  "releasedAt": "2026-02-26T08:30:00Z",
+  "minSupportedYearRoc": 115,
+  "trustedPolicyDigests": [
+    "5adedddfd2440a387baf952790540ac789e6c358a3bd93440c7b08d3b3f3f5d0",
+    "1ae7e24ae8de7c92cb2350115eed7852d81a60acc77deee3b7f8004d29311bef"
+  ]
+}
